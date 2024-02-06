@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>sinijtraktor</repo>
-  <version>v1.0.3</version>
+  <version>v1.0.4</version>
   <next number="1" owner="stolbitsa" repo="v-lesu-rodilas-elochka"/>
   <readme>
     <ru>1be9e5a94ef61f555537b1cb231aa276c99338c3b92ddd43fe1a740cafbd525c</ru>
@@ -189,6 +189,22 @@
       <note number="3" values="1,18" ticks="146" durationTicks="208" ppq="96" velocity="0.874"/>
       <note number="4" values="1,18" ticks="196" durationTicks="161" ppq="96" velocity="0.921"/>
       <note number="5" values="1,18" ticks="384" durationTicks="95" ppq="96" velocity="0.921"/>
+    </notes>
+  </exercise>
+  <exercise number="13">
+    <scale>major</scale>
+    <bpm>120</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <video name="11.mp4" size="968389" type="video/mp4">e0da0674f5d15c8d8632473a100e6df8c13ba895ba73cfdd3425a801f4aa1112</video>
+    <notes>
+      <note number="1" values="1,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
+      <note number="2" values="1,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
+      <note number="3" values="1,18" ticks="146" durationTicks="208" ppq="96" velocity="0.874"/>
+      <note number="4" values="1,18" ticks="196" durationTicks="161" ppq="96" velocity="0.921"/>
+      <note number="5" values="1,18" ticks="384" durationTicks="95" ppq="96" velocity="0.921"/>
+      <note number="6" values="1,18" ticks="480" durationTicks="95" ppq="96" velocity="0.921"/>
+      <note number="7" values="1,18" ticks="576" durationTicks="95" ppq="96" velocity="0.921"/>
     </notes>
   </exercise>
 </level>
