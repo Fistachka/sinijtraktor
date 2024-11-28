@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>sinijtraktor</repo>
-  <version>v1.0.11</version>
+  <version>v1.0.12</version>
   <next number="1" owner="stolbitsa" repo="v-lesu-rodilas-elochka"/>
   <readme>
     <ru>1be9e5a94ef61f555537b1cb231aa276c99338c3b92ddd43fe1a740cafbd525c</ru>
@@ -198,7 +198,7 @@
     <bpm>120</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>10</tonalities>
-    <video name="13t.mp4" size="1366463" type="video/mp4" volume="1">49cc5e1a189e7c5cfddfada2a8dba010da195ee344fb3a9f052b2d393e13d775</video>
+    <video name="13t.mp4" size="1366463" type="video/mp4" volume="0.562">49cc5e1a189e7c5cfddfada2a8dba010da195ee344fb3a9f052b2d393e13d775</video>
     <notes>
       <note number="1" values="5" ticks="36" durationTicks="36" ppq="96" velocity="0.048"/>
     </notes>
