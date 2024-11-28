@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>sinijtraktor</repo>
-  <version>v1.0.12</version>
+  <version>v1.0.13</version>
   <next number="1" owner="stolbitsa" repo="v-lesu-rodilas-elochka"/>
   <readme>
     <ru>1be9e5a94ef61f555537b1cb231aa276c99338c3b92ddd43fe1a740cafbd525c</ru>
@@ -191,34 +191,6 @@
       <note number="3" values="5" ticks="115" durationTicks="45" ppq="96" velocity="0.874"/>
       <note number="4" values="6" ticks="162" durationTicks="46" ppq="96" velocity="0.921"/>
       <note number="5" values="5" ticks="210" durationTicks="435" ppq="96" velocity="0.921"/>
-    </notes>
-  </exercise>
-  <exercise number="13">
-    <scale>major</scale>
-    <bpm>120</bpm>
-    <lowestNote>1</lowestNote>
-    <tonalities>10</tonalities>
-    <video name="13t.mp4" size="1366463" type="video/mp4" volume="0.562">49cc5e1a189e7c5cfddfada2a8dba010da195ee344fb3a9f052b2d393e13d775</video>
-    <notes>
-      <note number="1" values="5" ticks="36" durationTicks="36" ppq="96" velocity="0.048"/>
-    </notes>
-  </exercise>
-  <exercise number="14">
-    <scale>major</scale>
-    <bpm>120</bpm>
-    <lowestNote>1</lowestNote>
-    <tonalities>10</tonalities>
-    <video name="14t.mp4" size="808397" type="video/mp4" volume="0.5">6c131337323592c3dd938b7d689e80036b130f3adef1e4722872861279c52fcb</video>
-    <notes>
-      <note number="1" values="18" ticks="64" durationTicks="17" ppq="96" velocity="0.843"/>
-      <note number="2" values="18" ticks="88" durationTicks="17" ppq="96" velocity="0.913"/>
-      <note number="3" values="18" ticks="111" durationTicks="22" ppq="96" velocity="0.874"/>
-      <note number="4" values="18" ticks="135" durationTicks="22" ppq="96" velocity="0.921"/>
-      <note number="5" values="7" ticks="157" durationTicks="25" ppq="96" velocity="0.921"/>
-      <note number="6" values="7" ticks="183" durationTicks="22" ppq="96" velocity="0.921"/>
-      <note number="7" values="7" ticks="207" durationTicks="22" ppq="96" velocity="0.921"/>
-      <note number="8" values="7" ticks="231" durationTicks="21" ppq="96" velocity="0.921"/>
-      <note number="9" values="18" ticks="254" durationTicks="95" ppq="96" velocity="0.921"/>
     </notes>
   </exercise>
 </level>
